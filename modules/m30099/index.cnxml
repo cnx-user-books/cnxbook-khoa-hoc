@@ -1,0 +1,170 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Phương pháp khoa học</title>
+  <metadata>
+  <md:content-id>m30099</md:content-id><md:title>Phương pháp khoa học</md:title>
+  <md:abstract>Đây là tài liệu về phương pháp khoa học</md:abstract>
+  <md:uuid>260ec863-7e20-4ecc-83f0-50c25db45204</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-181803805939">
+      <title>Thế nào là “khái niệm”</title>
+      <para id="id5335385">“Khái niệm” là quá trình nhận thức hay tư duy của con người bắt đầu từ những tri giác hay bằng những quan sát sự vật hiện thực tác động vào giác quan. Như vậy, “khái niệm” có thể hiểu là hình thức tư duy của con người về những thuộc tính, bản chất của sự vật và mối liên hệ của những đặc tính đó với nhau. Người NCKH hình thành các “khái niệm” để tìm hiểu mối quan hệ giữa các "khái niệm" với nhau, để phân biệt sự vật này với sự vật khác và để đo lường thuộc tính bản chất của sự vật hay hình thành "khái niệm" nhằm mục đích xây dựng cơ sở lý luận. </para>
+    </section>
+    <section id="id-476762390883">
+      <title>Phán đoán</title>
+      <para id="id5335424">Trong nghiên cứu, người ta thường vận dụng các khái niệm để phán đoán hay tiên đoán. Phán đoán là vận dụng các khái niệm để phân biệt, so sánh những đặc tính, bản chất của sự vật và tìm mối liên hệ giữa đặc tính chung và đặc tính riêng của các sự vật đó. </para>
+    </section>
+    <section id="id-863374111451">
+      <title>Suy luận</title>
+      <para id="id5335448">Có 2 cách suy luận: suy luận “suy diễn” và suy luận “qui nạp"</para>
+      <section id="id-639350792134">
+        <title>Cách suy luận suy diễn </title>
+        <para id="id5335463">Theo Aristotle, kiến thức đạt được nhờ sự suy luận. Muốn suy luận phải có tiền đề và tiền đề đó đã được chấp nhận. Vì vậy, một tiền đề có mối quan hệ với kết luận rất rõ ràng. </para>
+        <para id="id5335476">Suy luận suy diễn theo Aristotle là suy luận đi từ cái chung tới cái riêng, về mối quan hệ đặc biệt. Thí dụ về suy luận suy diễn của Aristotle trong Bảng 2.1.</para>
+        <para id="id5335490">Bảng 2.1 Thí dụ về suy luận suy diễn</para>
+        <table id="id5335508" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Tiền đề chính:</entry>
+                <entry>Tất cả sinh viên đi học đều đặn</entry>
+              </row>
+              <row>
+                <entry>Tiền đề phụ:</entry>
+                <entry>Nam là sinh viên </entry>
+              </row>
+              <row>
+                <entry>Kết luận:</entry>
+                <entry>Nam đi học đều đặn</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-332910940297">
+        <title>Suy luận qui nạp </title>
+        <para id="id5335605">Vào đầu những năm 1600s, Francis Bacon đã đưa ra một phương pháp tiếp cận khác về kiến thức, khác với Aristotle. Ông ta cho rằng, để đạt được kiến thức mới phải đi từ thông tin riêng để đến kết luận chung, phương pháp này gọi là phương pháp qui nạp. Phương pháp nầy cho phép chúng ta dùng những tiền đề riêng, là những kiến thức đã được chấp nhận, như là phương tiện để đạt được kiến thức mới. Thí dụ về suy luận qui nạp trong Bảng 2.2.</para>
+        <para id="id5335623">Bảng 2.2 Thí dụ về suy luận qui nạp</para>
+        <table id="id5335638" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Tiền đề riêng:</entry>
+                <entry>Nam, Bắc, Đông và Tây tham dự lớp đều đặn</entry>
+              </row>
+              <row>
+                <entry>Tiền đề riêng:</entry>
+                <entry>Nam, Bắc, Đông và Tây đạt được điểm cao</entry>
+              </row>
+              <row>
+                <entry>Kết luận:</entry>
+                <entry>Sinh viên tham dự lớp đều đặn thì đạt được điểm cao</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5335727">Ngày nay, các nhà nghiên cứu đã kết hợp hai phương pháp trên hay còn gọi là “phương pháp khoa học” (Bảng 2.3). Phương pháp khoa học cần phải xác định tiền đề chính (gọi là giả thuyết) và sau đó phân tích các kiến thức có được (nghiên cứu riêng) một cách logic để kết luận giả thuyết.</para>
+        <para id="id5335745">Bảng 2.3 Thí dụ về phương pháp khoa học</para>
+        <table id="id5335760" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>* Tiền đề chính (giả thuyết):</entry>
+                <entry namest="c2" nameend="c3">Sinh viên tham dự lớp đều đặn thì đạt được điểm cao</entry>
+              </row>
+              <row>
+                <entry>* Tham dự lớp(nguyên nhân còn nghi ngờ):</entry>
+                <entry>Nhóm 1:</entry>
+                <entry>Nam, Bắc, Đông và Tây tham dự lớp đều đặn</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Nhóm 2:</entry>
+                <entry>Lan, Anh, Kiều và Vân không tham dự lớp đều đặn</entry>
+              </row>
+              <row>
+                <entry>* Điểm(ảnh hưởng còn nghi ngờ):</entry>
+                <entry>Nhóm 1:</entry>
+                <entry>Nam, Bắc, Đông và Tây đạt được điểm 9 và 10</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Nhóm 2:</entry>
+                <entry>Lan, Anh, Kiều và Vân đạt được điểm 5 và 6</entry>
+              </row>
+              <row>
+                <entry>* Kết luận:</entry>
+                <entry namest="c2" nameend="c3">Sinh viên tham dự lớp đều đặn thì đạt được điểm cao so với không tham dự lớp đều đặn (Vì vậy, tiền đề chính hoặc giả thiết được công nhận là đúng) </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-985887629417">
+      <title>Cấu trúc của phương pháp luận nghiên cứu khoa học</title>
+      <para id="id5350504">Nghiên cứu khoa học phải sử dụng PPKH: bao gồm chọn phương pháp thích hợp (luận chứng) để chứng minh mối quan hệ giữa các luận cứ và giữa toàn bộ luận cứ với luận đề; cách đặt giả thuyết hay phán đoán sử dụng các luận cứ và phương pháp thu thập thông tin và xử lý thông tin (luận cứ) để xây dựng luận đề.</para>
+      <section id="id-408267771119">
+        <title>Luận đề</title>
+        <para id="id5350529">Luận đề trả lời câu hỏi “cần chứng minh điều gì?” trong nghiên cứu. Luận đề là một “phán đoán” hay một “giả thuyết” cần được chứng minh. Thí dụ: Lúa được bón quá nhiều phân N sẽ bị đỗ ngã.</para>
+      </section>
+      <section id="id-616885622014">
+        <title>Luận cứ</title>
+        <para id="id5350554">Để chứng minh một luận đề thì nhà khoa học cần đưa ra các bằng chứng hay luận cứ khoa học. Luận cứ bao gồm thu thập các thông tin, tài liệu tham khảo; quan sát và thực nghiệm. Luận cứ trả lời câu hỏi “Chứng minh bằng cái gì?”. Các nhà khoa học sử dụng luận cứ làm cơ sở để chứng minh một luận đề. Có hai loại luận cứ được sử dụng trong nghiên cứu khoa học:</para>
+        <list id="id5350578" list-type="bulleted">
+          <item>Luận cứ lý thuyết: bao gồm các lý thuyết, luận điểm, tiền đề, định lý, định luật, qui luật đã được khoa học chứng minh và xác nhận là đúng. Luận cứ lý thuyết cũng được xem là cơ sở lý luận.</item>
+          <item>Luận cứ thực tiễn: dựa trên cơ sở số liệu thu thập, quan sát và làm thí nghiệm.</item>
+        </list>
+      </section>
+      <section id="id-539919828972">
+        <title>Luận chứng</title>
+        <para id="id5350627">Để chứng minh một luận đề, nhà nghiên cứu khoa học phải đưa ra phương pháp để xác định mối liên hệ giữa các luận cứ và giữa luận cứ với luận đề. Luận chứng trả lời câu hỏi “Chứng minh bằng cách nào?”. Trong nghiên cứu khoa học, để chứng minh một luận đề, một giả thuyết hay sự tiên đoán thì nhà nghiên cứu sử dụng luận chứng, chẳng hạn kết hợp các phép suy luận, giữa suy luận suy diễn, suy luận qui nạp và loại suy. Một cách sử dụng luận chứng khác, đó là phương pháp tiếp cận và thu thập thông tin làm luận cứ khoa học, thu thập số liệu thống kê trong thực nghiệm hay trong các loại nghiên cứu điều tra. </para>
+      </section>
+    </section>
+    <section id="id-239874000579">
+      <title>Phương pháp khoa học</title>
+      <para id="id5350665">Phương pháp khoa học (PPKH). Những ngành khoa học khác nhau cũng có thể có những PPKH khác nhau. Ngành khoa học tự nhiên như vật lý, hoá học, nông nghiệp sử dụng PPKH thực nghiệm, như tiến hành bố trí thí nghiệm để thu thập số liệu, để giải thích và kết luận. Còn ngành khoa học xã hội như nhân chủng học, kinh tế, lịch sử… sử dụng PPKH thu thập thông tin từ sự quan sát, phỏng vấn hay điều tra. Tuy nhiên, PPKH có những bước chung như: Quan sát sự vật hay hiện tượng, đặt vấn đề và lập giả thuyết, thu thập số liệu và dựa trên số lịệu để rút ra kết luận (Bảng 2.4). Nhưng vẫn có sự khác nhau về quá trình thu thập số liệu, xử lý và phân tích số liệu. </para>
+      <para id="id5350710">Bảng 2.4 Các bước cơ bản trong phương pháp khoa học </para>
+      <table id="id5350730" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Bước</entry>
+              <entry>Nội dung</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Quan sát sự vật, hiện tượng </entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Đặt vấn đề nghiên cứu</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Đặt giả thuyết hay sự tiên đoán</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Thu thập thông tin hay số liệu thí nghiệm</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Kết luận</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
